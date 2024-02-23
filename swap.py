@@ -8,5 +8,4 @@ x = x + y
 y = x - y
 x = x - y
 
-print('The value of x after swapping:', x)
-print('The value of y after swapping:', y)
+print("The value of x is {} and the value of y is {}.".format(x, y))
