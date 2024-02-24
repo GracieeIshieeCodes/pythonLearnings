@@ -1,5 +1,3 @@
-# Loyola, Reylene Grace A.
-# IT3C
 # WEEK 5 - Programming Problem 3 using nested if else statements:
 # (Student Grading System using NUMBERED INDEX)
 
